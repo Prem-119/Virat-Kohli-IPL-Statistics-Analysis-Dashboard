@@ -56,3 +56,4 @@
 
 7. Screenshots
    this is how dashboard look like:
+   https://github.com/Prem-119/Virat-Kohli-IPL-Statistics-Analysis-Dashboard/blob/main/Virat%20Kholi%20IPL%20Stats%20Dashboard.png
